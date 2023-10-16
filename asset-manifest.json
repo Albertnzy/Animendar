@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Animendar/static/css/main.340b25da.css",
-    "main.js": "/Animendar/static/js/main.206b2132.js",
+    "main.js": "/Animendar/static/js/main.ec264c6a.js",
     "static/js/787.4ba1cf03.chunk.js": "/Animendar/static/js/787.4ba1cf03.chunk.js",
     "static/media/About_logo.jpg": "/Animendar/static/media/About_logo.2fe1756bc2663e3b1e54.jpg",
     "static/media/anime.jpg": "/Animendar/static/media/anime.87e347722d753eb3cebc.jpg",
     "static/media/bg_small.jpg": "/Animendar/static/media/bg_small.0a97c95bad1d3e7df28f.jpg",
     "index.html": "/Animendar/index.html",
     "main.340b25da.css.map": "/Animendar/static/css/main.340b25da.css.map",
-    "main.206b2132.js.map": "/Animendar/static/js/main.206b2132.js.map",
+    "main.ec264c6a.js.map": "/Animendar/static/js/main.ec264c6a.js.map",
     "787.4ba1cf03.chunk.js.map": "/Animendar/static/js/787.4ba1cf03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.340b25da.css",
-    "static/js/main.206b2132.js"
+    "static/js/main.ec264c6a.js"
   ]
 }
